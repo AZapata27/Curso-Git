@@ -11,3 +11,10 @@ function main() {
 }
 
 main();
+
+
+function saludo_alerta() {
+
+    alert("Hola github");
+    
+}
