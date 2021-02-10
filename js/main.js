@@ -18,3 +18,15 @@ function saludo_alerta() {
     alert("Hola github");
     
 }
+
+function despedida_alerta() {
+
+    alert("adios github");
+    
+}
+
+function permiso_alerta() {
+
+    alert("dame permiso github");
+    
+}
